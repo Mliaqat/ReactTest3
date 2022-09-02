@@ -1,0 +1,21 @@
+.accept_bth {
+    background: #04eb3e;
+    border: none;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding:5px 10px;
+    text-decoration: none;
+  }
+  .reject_bth {
+    margin-left: 1rem;
+    background: #eb2704;
+    border: none;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding:5px 10px;
+    text-decoration: none;
+  }
